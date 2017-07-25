@@ -12,7 +12,7 @@
 float: right;
 }
 
-.FB:hover {
+.FB i:hover {
 font-color: white;
 background color: black;
 float: right;
@@ -22,7 +22,7 @@ float: right;
 float: right;
 }
 
-.yelp:hover {
+.yelp i:hover {
 font-color: white;
 background color: black;
 float: right;
@@ -32,7 +32,7 @@ float: right;
 float: right;
 }
 
-.instagram:hover {
+.instagram i:hover {
 font-color: white;
 background color: black;
 float: right;
