@@ -9,20 +9,12 @@
  }
  
 .FB {
-padding: 20px;
-margin-top: 10px;
-margin-left: 5px;
 float: right;
-background-image: url('https://raw.githubusercontent.com/chryswlch/hello-jasmine/master/if_facebook_online_social_media_734399 (1).png');
-background-repeat: no-repeat;
 }
 
 .FB:hover {
-padding: 20px;
-margin-top: 10px;
-margin-left: 5px;
-background-image: url('https://raw.githubusercontent.com/chryswlch/hello-jasmine/master/if_online_social_media_facebook_734386.png');
-background-repeat: no-repeat;
+font-color: white;
+background color: black;
 float: right;
 }
 
