@@ -19,39 +19,23 @@ float: right;
 }
 
 .yelp {
-padding: 25px;
-margin-left: 5px;
-margin-top: 10px;
 float: right;
-background-image: url('https://raw.githubusercontent.com/chryswlch/hello-jasmine/master/if_yelp_social_media_logo_1221593.png');
-background-repeat: no-repeat;
 }
 
 .yelp:hover {
-padding: 25px;
-margin-left: 5px;
-margin-top: 10px;
+font-color: white;
+background color: black;
 float: right;
-background-image: url('https://raw.githubusercontent.com/chryswlch/hello-jasmine/master/if_social_media_logo_yelp_1221590.png');
-background-repeat: no-repeat;
-
 }
+
 .instagram {
-padding: 25px;
-margin-left: 10px;
-margin-top: 10px;
 float: right;
-background-image: url('https://raw.githubusercontent.com/chryswlch/hello-jasmine/master/if_instagram_social_media_online-_1940924.png');
-background-repeat: no-repeat;
 }
 
 .instagram:hover {
-padding: 25px;
-margin-left: 10px;
-margin-top: 10px;
+font-color: white;
+background color: black;
 float: right;
-background-image: url('https://raw.githubusercontent.com/chryswlch/hello-jasmine/master/if_instagram_online_social_media_photo_734395.png');
-background-repeat: no-repeat;
 }
 
 #menu {
